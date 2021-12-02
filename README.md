@@ -1,6 +1,9 @@
 ## Game of Thrones Analysis
 ### Project for Social Graphs and Interactions 2021 | DTU
 
+### WEBSITE URL:
+https://slidegg.github.io/social-graphs-dtu/
+
 ####  Start server
 hugo server -D
 
