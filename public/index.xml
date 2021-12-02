@@ -6,19 +6,9 @@
     <description>Recent content on Game of Thrones Project for Social Graphs and Interactions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Dec 2021 02:20:46 +0100</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Thu, 02 Dec 2021 02:20:46 +0100</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
